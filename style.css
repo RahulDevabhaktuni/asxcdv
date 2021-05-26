@@ -1,0 +1,19 @@
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+
+.asdf{
+    background-color: red;
+    display:flex;
+    justify-content: space-between ;
+}
+
+.qwertyuiop{
+    display: flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap
+}
